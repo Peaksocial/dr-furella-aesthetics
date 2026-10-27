@@ -25,10 +25,10 @@ e:["$","section",null,{"className":"band-champagne","style":{"position":"relativ
           position: absolute; inset: 0;
           background:
             linear-gradient(102deg,
-              color-mix(in oklab, var(--cream) 94%, transparent) 0%,
-              color-mix(in oklab, var(--cream) 86%, transparent) 26%,
-              color-mix(in oklab, var(--blush) 42%, transparent) 46%,
-              color-mix(in oklab, var(--blush) 8%, transparent) 60%,
+              color-mix(in oklab, #fff 96%, transparent) 0%,
+              color-mix(in oklab, #fff 90%, transparent) 26%,
+              color-mix(in oklab, #fff 55%, transparent) 46%,
+              color-mix(in oklab, #fff 10%, transparent) 60%,
               transparent 72%),
             linear-gradient(to bottom, transparent 60%, color-mix(in oklab, var(--blush) 60%, transparent) 100%);
         }
