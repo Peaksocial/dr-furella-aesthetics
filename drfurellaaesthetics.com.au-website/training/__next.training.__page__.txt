@@ -1,0 +1,557 @@
+1:"$Sreact.fragment"
+3:I[81,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","637","static/chunks/app/training/page-9f00a23b7b199879.js"],"RevealLines"]
+4:I[81,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","637","static/chunks/app/training/page-9f00a23b7b199879.js"],"Reveal"]
+5:I[8500,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","637","static/chunks/app/training/page-9f00a23b7b199879.js"],""]
+19:I[484,[],"OutletBoundary"]
+1a:"$Sreact.suspense"
+2:T566,{"@context":"https://schema.org","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"name":"Introduction to Cosmetic Injectables","url":"https://drfurellaaesthetics.com.au/introduction-to-cosmetic-injectables/"},{"@type":"ListItem","position":2,"name":"Advanced Cosmetic Injectables","url":"https://drfurellaaesthetics.com.au/advanced-cosmetic-injectables/"},{"@type":"ListItem","position":3,"name":"IV Vitamin Therapy","url":"https://drfurellaaesthetics.com.au/iv-vitamin-therapy/"},{"@type":"ListItem","position":4,"name":"PDO Threads & Threadlifting","url":"https://drfurellaaesthetics.com.au/pdo-threads-threadlifting/"},{"@type":"ListItem","position":5,"name":"Injectable Lipolysis & Fat Reduction","url":"https://drfurellaaesthetics.com.au/injectable-lipolysis-fat-reduction/"},{"@type":"ListItem","position":6,"name":"Platelet Derived Therapy","url":"https://drfurellaaesthetics.com.au/platelet-derived-therapy/"},{"@type":"ListItem","position":7,"name":"Sclerotherapy for Varicose Veins","url":"https://drfurellaaesthetics.com.au/sclerotherapy-for-varicose-veins/"},{"@type":"ListItem","position":8,"name":"Laser, IPL & Light-Based Therapies","url":"https://drfurellaaesthetics.com.au/laser-ipl-light-based-therapies/"},{"@type":"ListItem","position":9,"name":"Bespoke / Refresher Day","url":"https://drfurellaaesthetics.com.au/bespoke-refresher-day/"}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"band-blush","style":{"position":"relative","overflow":"hidden"},"children":[["$","div",null,{"className":"glow-rose","style":{"position":"absolute","top":"-30%","right":"-10%","width":"60%","height":"120%","opacity":0.7,"pointerEvents":"none"}}],["$","div",null,{"className":"container-editorial","style":{"position":"relative","paddingTop":168,"paddingBottom":72},"children":["$undefined",["$","div",null,{"style":{"marginBottom":20},"children":["$","span",null,{"className":"type-kicker","children":"Training Workshops"}]}],["$","$L3",null,{"lines":["Doctor-led training","for the industry."],"className":"type-display-xl font-display","delay":0.05}],["$","$L4",null,{"delay":0.25,"children":["$","p",null,{"className":"type-muse","style":{"marginTop":22,"fontSize":"clamp(1.05rem, 2vw, 1.4rem)"},"children":"Considered, doctor-led aesthetic care."}]}],["$","$L4",null,{"delay":0.35,"children":["$","p",null,{"className":"type-body-lg","style":{"marginTop":26,"maxWidth":"62ch"},"children":"At Dr Furella Aesthetics, we offer doctor-led aesthetic and non-surgical procedural training workshops designed to support the operational and clinical success of cosmetic clinics across Australia. Whether you are a solo cosmetic nurse or doctor, or part of a multi-clinician team, our expert trainers deliver education and skill development with precision, efficiency and care, every time."}]}]]}]]}],["$","section",null,{"className":"band-ivory","style":{"paddingBlock":90},"children":["$","div",null,{"className":"container-editorial","children":[["$","div",null,{"style":{"marginBottom":40},"children":[["$","$L4",null,{"children":["$","span",null,{"className":"type-kicker","children":"The Injector Pathway"}]}],["$","$L4",null,{"delay":0.1,"children":["$","h2",null,{"className":"type-display-md font-display","style":{"marginTop":14},"children":"Three levels, from foundation to mastery."}]}]]}],["$","div",null,{"className":"pathway-grid","children":[["$","$L4","beginner-course-foundation-injectables",{"delay":0,"children":["$","$L5",null,{"href":"/beginner-course-foundation-injectables/","className":"card-lift","style":{"display":"block","background":"var(--surface-bg)","border":"1px solid var(--color-border-hair)","borderRadius":4,"padding":"34px 30px","height":"100%"},"children":[["$","span",null,{"className":"font-display","style":{"fontSize":44,"color":"var(--rose-gold)","lineHeight":1},"children":["0",1]}],"$L6","$L7","$L8","$L9"]}]}],"$La","$Lb"]}]]}]}],"$Lc","$Ld","$Le"],null,"$Lf"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Z82CdQ0WC8y92LOzv_COl"}
+6:["$","h3",null,{"className":"font-display","style":{"fontSize":24,"marginTop":18,"color":"var(--ink-base)"},"children":"Beginner Course"}]
+7:["$","p",null,{"className":"font-display","style":{"fontSize":16,"color":"var(--rose)","marginTop":4},"children":"$$3,990"}]
+8:["$","p",null,{"className":"type-body","style":{"marginTop":14},"children":"An entry-level course covering the core foundations required to start injecting safely and competently."}]
+9:["$","span",null,{"className":"btn btn-text","style":{"marginTop":18},"children":"Learn more →"}]
+a:["$","$L4","intermediate-course-advanced-facial-balance-biostimulation",{"delay":0.08,"children":["$","$L5",null,{"href":"/intermediate-course-advanced-facial-balance-biostimulation/","className":"card-lift","style":{"display":"block","background":"var(--surface-bg)","border":"1px solid var(--color-border-hair)","borderRadius":4,"padding":"34px 30px","height":"100%"},"children":[["$","span",null,{"className":"font-display","style":{"fontSize":44,"color":"var(--rose-gold)","lineHeight":1},"children":["0",2]}],["$","h3",null,{"className":"font-display","style":{"fontSize":24,"marginTop":18,"color":"var(--ink-base)"},"children":"Intermediate Course"}],["$","p",null,{"className":"font-display","style":{"fontSize":16,"color":"var(--rose)","marginTop":4},"children":"$$4,990"}],["$","p",null,{"className":"type-body","style":{"marginTop":14},"children":"Builds on foundational skills and introduces biostimulatory products with an emphasis on facial balance."}],["$","span",null,{"className":"btn btn-text","style":{"marginTop":18},"children":"Learn more →"}]]}]}]
+b:["$","$L4","advanced-course-full-face-body-contouring-mastery",{"delay":0.16,"children":["$","$L5",null,{"href":"/advanced-course-full-face-body-contouring-mastery/","className":"card-lift","style":{"display":"block","background":"var(--surface-bg)","border":"1px solid var(--color-border-hair)","borderRadius":4,"padding":"34px 30px","height":"100%"},"children":[["$","span",null,{"className":"font-display","style":{"fontSize":44,"color":"var(--rose-gold)","lineHeight":1},"children":["0",3]}],["$","h3",null,{"className":"font-display","style":{"fontSize":24,"marginTop":18,"color":"var(--ink-base)"},"children":"Advanced Course"}],["$","p",null,{"className":"font-display","style":{"fontSize":16,"color":"var(--rose)","marginTop":4},"children":"$$5,990"}],["$","p",null,{"className":"type-body","style":{"marginTop":14},"children":"A master-level course covering advanced treatments requiring precision, anatomy and complication management."}],["$","span",null,{"className":"btn btn-text","style":{"marginTop":18},"children":"Learn more →"}]]}]}]
+10:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      c:["$","section",null,{"className":"container-editorial","style":{"paddingBlock":90},"children":[["$","div",null,{"style":{"display":"flex","justifyContent":"space-between","alignItems":"flex-end","flexWrap":"wrap","gap":16,"marginBottom":40},"children":[["$","div",null,{"children":[["$","$L4",null,{"children":["$","span",null,{"className":"type-kicker type-kicker-olive","children":"Workshops & Modalities"}]}],["$","$L4",null,{"delay":0.1,"children":["$","h2",null,{"className":"type-display-md font-display","style":{"marginTop":14},"children":"Every modality, hands-on."}]}]]}],["$","$L4",null,{"delay":0.15,"children":["$","$L5",null,{"href":"/course-dates/","className":"btn btn-ghost","children":"Course Dates"}]}]]}],["$","div",null,{"className":"training-grid","children":[["$","$L4","introduction-to-cosmetic-injectables",{"delay":0,"className":"sc-wrap","children":[["$","$L5",null,{"href":"/introduction-to-cosmetic-injectables/","className":"sc-card","aria-label":"Introduction to Cosmetic Injectables","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Training"}],["$","h3",null,{"className":"font-display sc-title","children":"Introduction to Cosmetic Injectables"}],["$","p",null,{"className":"sc-summary font-body","children":"Our flagship course and the ideal first step for health professionals starting out in aesthetics."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$10"}]]}],"$L11","$L12","$L13","$L14","$L15","$L16","$L17","$L18"]}]]}]
+d:["$","section",null,{"className":"band-champagne","style":{"position":"relative","overflow":"hidden"},"children":[["$","div",null,{"className":"glow-rose","style":{"position":"absolute","inset":0,"opacity":0.6,"pointerEvents":"none"}}],["$","div",null,{"className":"container-editorial","style":{"position":"relative","paddingBlock":96,"textAlign":"center"},"children":["$","$L4",null,{"children":[["$","span",null,{"className":"type-muse","style":{"fontSize":"clamp(1rem, 2vw, 1.25rem)"},"children":"Considered, doctor-led aesthetic care."}],["$","h2",null,{"className":"type-display-lg font-display","style":{"margin":"18px auto 20px","maxWidth":"18ch"},"children":"Ready to start your new career?"}],["$","p",null,{"className":"type-body-lg","style":{"maxWidth":"56ch","margin":"0 auto 36px"},"children":"Tell us which workshop you are interested in and your preferred dates, and our team will help you find a place, in Sydney or Melbourne."}],["$","div",null,{"style":{"display":"flex","gap":14,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L5",null,{"href":"/training-enquire-now/","className":"btn btn-rose","children":"Enquire About Training"}],["$","$L5",null,{"href":"/course-dates/","className":"btn btn-ghost","children":"See Course Dates"}]]}]]}]}]]}]
+e:["$","style",null,{"children":"\n        .pathway-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(16px, 2vw, 24px); }\n        .training-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(16px, 2vw, 26px); }\n        @media (max-width: 900px) { .pathway-grid, .training-grid { grid-template-columns: repeat(2, 1fr); } }\n        @media (max-width: 560px) { .pathway-grid, .training-grid { grid-template-columns: 1fr; } }\n      "}]
+f:["$","$L19",null,{"children":["$","$1a",null,{"name":"Next.MetadataOutlet","children":"$@1b"}]}]
+1c:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      11:["$","$L4","advanced-cosmetic-injectables",{"delay":0.08,"className":"sc-wrap","children":[["$","$L5",null,{"href":"/advanced-cosmetic-injectables/","className":"sc-card","aria-label":"Advanced Cosmetic Injectables","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Training"}],["$","h3",null,{"className":"font-display sc-title","children":"Advanced Cosmetic Injectables"}],["$","p",null,{"className":"sc-summary font-body","children":"Take your injecting to the next level with lesser-known techniques for the lower face, cannula work and biostimulators."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$1c"}]]}]
+1d:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      12:["$","$L4","iv-vitamin-therapy",{"delay":0.16,"className":"sc-wrap","children":[["$","$L5",null,{"href":"/iv-vitamin-therapy/","className":"sc-card","aria-label":"IV Vitamin Therapy","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Training"}],["$","h3",null,{"className":"font-display sc-title","children":"IV Vitamin Therapy"}],["$","p",null,{"className":"sc-summary font-body","children":"Learn the full IV treatment suite in two days, including cannulation, NAD, vitamins, antioxidants and scripting."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$1d"}]]}]
+1e:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      13:["$","$L4","pdo-threads-threadlifting",{"delay":0,"className":"sc-wrap","children":[["$","$L5",null,{"href":"/pdo-threads-threadlifting/","className":"sc-card","aria-label":"PDO Threads & Threadlifting","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Training"}],["$","h3",null,{"className":"font-display sc-title","children":"PDO Threads & Threadlifting"}],["$","p",null,{"className":"sc-summary font-body","children":"A comprehensive workshop, in partnership with Avaderm Medical, teaching every aspect of threads and threadlifts."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$1e"}]]}]
+1f:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      14:["$","$L4","injectable-lipolysis-fat-reduction",{"delay":0.08,"className":"sc-wrap","children":[["$","$L5",null,{"href":"/injectable-lipolysis-fat-reduction/","className":"sc-card","aria-label":"Injectable Lipolysis & Fat Reduction","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Training"}],["$","h3",null,{"className":"font-display sc-title","children":"Injectable Lipolysis & Fat Reduction"}],["$","p",null,{"className":"sc-summary font-body","children":"A simpler alternative to liposuction, plus the latest in weight-management options for your clinic."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$1f"}]]}]
+20:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      15:["$","$L4","platelet-derived-therapy",{"delay":0.16,"className":"sc-wrap","children":[["$","$L5",null,{"href":"/platelet-derived-therapy/","className":"sc-card","aria-label":"Platelet Derived Therapy","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Training"}],["$","h3",null,{"className":"font-display sc-title","children":"Platelet Derived Therapy"}],["$","p",null,{"className":"sc-summary font-body","children":"Explore the clinical applications of Platelet Derived Therapy across aesthetics and musculoskeletal medicine."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$20"}]]}]
+21:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      16:["$","$L4","sclerotherapy-for-varicose-veins",{"delay":0,"className":"sc-wrap","children":[["$","$L5",null,{"href":"/sclerotherapy-for-varicose-veins/","className":"sc-card","aria-label":"Sclerotherapy for Varicose Veins","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Training"}],["$","h3",null,{"className":"font-display sc-title","children":"Sclerotherapy for Varicose Veins"}],["$","p",null,{"className":"sc-summary font-body","children":"A one-day workshop giving practitioners the knowledge and skills to safely perform sclerotherapy."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$21"}]]}]
+22:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      17:["$","$L4","laser-ipl-light-based-therapies",{"delay":0.08,"className":"sc-wrap","children":[["$","$L5",null,{"href":"/laser-ipl-light-based-therapies/","className":"sc-card","aria-label":"Laser, IPL & Light-Based Therapies","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Training"}],["$","h3",null,{"className":"font-display sc-title","children":"Laser, IPL & Light-Based Therapies"}],["$","p",null,{"className":"sc-summary font-body","children":"The science and safe operation of modern light-based devices across aesthetic practice."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$22"}]]}]
+23:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      18:["$","$L4","bespoke-refresher-day",{"delay":0.16,"className":"sc-wrap","children":[["$","$L5",null,{"href":"/bespoke-refresher-day/","className":"sc-card","aria-label":"Bespoke / Refresher Day","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Training"}],["$","h3",null,{"className":"font-display sc-title","children":"Bespoke / Refresher Day"}],["$","p",null,{"className":"sc-summary font-body","children":"A fully customised training day tailored to your skill level, experience and specific needs."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$23"}]]}]
+1b:null

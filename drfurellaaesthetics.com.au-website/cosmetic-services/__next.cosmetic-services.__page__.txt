@@ -1,0 +1,852 @@
+1:"$Sreact.fragment"
+3:I[81,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","535","static/chunks/app/cosmetic-services/page-9f00a23b7b199879.js"],"RevealLines"]
+4:I[81,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","535","static/chunks/app/cosmetic-services/page-9f00a23b7b199879.js"],"Reveal"]
+d:I[8500,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","535","static/chunks/app/cosmetic-services/page-9f00a23b7b199879.js"],""]
+1c:I[484,[],"OutletBoundary"]
+1d:"$Sreact.suspense"
+2:T7da,{"@context":"https://schema.org","@type":"ItemList","itemListElement":[{"@type":"ListItem","position":1,"name":"Facial Concerns Consultation","url":"https://drfurellaaesthetics.com.au/facial-concerns-consultation/"},{"@type":"ListItem","position":2,"name":"Skin Quality Consultation","url":"https://drfurellaaesthetics.com.au/skin-quality-consultation/"},{"@type":"ListItem","position":3,"name":"Chemical Peels","url":"https://drfurellaaesthetics.com.au/chemical-peels/"},{"@type":"ListItem","position":4,"name":"Laser Hair Removal","url":"https://drfurellaaesthetics.com.au/laser-hair-removal/"},{"@type":"ListItem","position":5,"name":"Laser Pigmentation & Vascular","url":"https://drfurellaaesthetics.com.au/pigmentation-vascular/"},{"@type":"ListItem","position":6,"name":"Cosmetic Teeth Whitening","url":"https://drfurellaaesthetics.com.au/pearly-white-cosmetic-teeth-whitening/"},{"@type":"ListItem","position":7,"name":"Skin Needling","url":"https://drfurellaaesthetics.com.au/skin-needling/"},{"@type":"ListItem","position":8,"name":"Skin Treatments","url":"https://drfurellaaesthetics.com.au/skin-treatments/"},{"@type":"ListItem","position":9,"name":"Intravenous Therapy Consultation","url":"https://drfurellaaesthetics.com.au/intravenous-therapy-consultation/"},{"@type":"ListItem","position":10,"name":"Non-Surgical Platysmaplasty","url":"https://drfurellaaesthetics.com.au/non-surgical-platys/"},{"@type":"ListItem","position":11,"name":"Breast Skin Consultation","url":"https://drfurellaaesthetics.com.au/breast-skin-consultation/"},{"@type":"ListItem","position":12,"name":"Non-Surgical Fat Reduction Consultation","url":"https://drfurellaaesthetics.com.au/non-surgical-fat-reduction-consultation/"},{"@type":"ListItem","position":13,"name":"Vaginal Health Consultation","url":"https://drfurellaaesthetics.com.au/vaginal-health-consultation/"},{"@type":"ListItem","position":14,"name":"Non-Surgical Nose Augmentation","url":"https://drfurellaaesthetics.com.au/non-surgical-nose-augmentation/"}]}0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"$2"}}],["$","section",null,{"className":"band-blush","style":{"position":"relative","overflow":"hidden"},"children":[["$","div",null,{"className":"glow-rose","style":{"position":"absolute","top":"-30%","right":"-10%","width":"60%","height":"120%","opacity":0.7,"pointerEvents":"none"}}],["$","div",null,{"className":"container-editorial","style":{"position":"relative","paddingTop":168,"paddingBottom":72},"children":["$undefined",["$","div",null,{"style":{"marginBottom":20},"children":["$","span",null,{"className":"type-kicker","children":"Cosmetic Services"}]}],["$","$L3",null,{"lines":["A more intelligent","approach to beauty."],"className":"type-display-xl font-display","delay":0.05}],["$","$L4",null,{"delay":0.25,"children":["$","p",null,{"className":"type-muse","style":{"marginTop":22,"fontSize":"clamp(1.05rem, 2vw, 1.4rem)"},"children":"Considered, doctor-led aesthetic care."}]}],["$","$L4",null,{"delay":0.35,"children":["$","p",null,{"className":"type-body-lg","style":{"marginTop":26,"maxWidth":"62ch"},"children":"Our cosmetic menu is doctor-led and built around your features, skin, laser, skin needling and body contouring. Not about creating a new you, but refining your natural features, combining clinical precision with careful assessment."}]}]]}]]}],["$","section",null,{"className":"container-editorial","style":{"paddingBlock":90,"display":"flex","flexDirection":"column","gap":80},"children":[[["$","div","Consultations",{"children":[["$","div",null,{"style":{"marginBottom":34,"display":"flex","alignItems":"baseline","gap":18,"flexWrap":"wrap"},"children":[["$","$L4",null,{"children":["$","h2",null,{"className":"type-display-md font-display","children":"Consultations"}]}],"$L5"]}],"$L6"]}],"$L7","$L8","$L9"],"$La"]}],"$Lb"],null,"$Lc"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Z82CdQ0WC8y92LOzv_COl"}
+5:["$","$L4",null,{"delay":0.1,"children":["$","span",null,{"className":"font-body","style":{"fontSize":13,"color":"var(--color-ink-subtle)","letterSpacing":"0.04em"},"children":[7," treatment","s"]}]}]
+e:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      6:["$","div",null,{"className":"cs-grid","children":[["$","$L4","facial-concerns-consultation",{"delay":0,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/facial-concerns-consultation/","className":"sc-card","aria-label":"Facial Concerns Consultation","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Consultations"}],["$","h3",null,{"className":"font-display sc-title","children":"Facial Concerns Consultation"}],["$","p",null,{"className":"sc-summary font-body","children":"A consultation with a registered practitioner to discuss facial concerns such as lines, volume and balance."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$e"}]]}],"$Lf","$L10","$L11","$L12","$L13","$L14"]}]
+15:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      7:["$","div","Medical Aesthetics",{"children":[["$","div",null,{"style":{"marginBottom":34,"display":"flex","alignItems":"baseline","gap":18,"flexWrap":"wrap"},"children":[["$","$L4",null,{"children":["$","h2",null,{"className":"type-display-md font-display","children":"Medical Aesthetics"}]}],["$","$L4",null,{"delay":0.1,"children":["$","span",null,{"className":"font-body","style":{"fontSize":13,"color":"var(--color-ink-subtle)","letterSpacing":"0.04em"},"children":[1," treatment",""]}]}]]}],["$","div",null,{"className":"cs-grid","children":[["$","$L4","non-surgical-platys",{"delay":0,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/non-surgical-platys/","className":"sc-card","aria-label":"Non-Surgical Platysmaplasty","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Medical Aesthetics"}],["$","h3",null,{"className":"font-display sc-title","children":"Non-Surgical Platysmaplasty"}],["$","p",null,{"className":"sc-summary font-body","children":"A thread procedure for the neck and jawline. A consultation is required to determine whether it may be appropriate."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$15"}]]}]]}]]}]
+16:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      8:["$","div","Skin",{"children":[["$","div",null,{"style":{"marginBottom":34,"display":"flex","alignItems":"baseline","gap":18,"flexWrap":"wrap"},"children":[["$","$L4",null,{"children":["$","h2",null,{"className":"type-display-md font-display","children":"Skin"}]}],["$","$L4",null,{"delay":0.1,"children":["$","span",null,{"className":"font-body","style":{"fontSize":13,"color":"var(--color-ink-subtle)","letterSpacing":"0.04em"},"children":[4," treatment","s"]}]}]]}],["$","div",null,{"className":"cs-grid","children":[["$","$L4","chemical-peels",{"delay":0,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/chemical-peels/","className":"sc-card","aria-label":"Chemical Peels","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Skin"}],["$","h3",null,{"className":"font-display sc-title","children":"Chemical Peels"}],["$","p",null,{"className":"sc-summary font-body","children":"A consultation is required to determine whether a chemical peel may be appropriate for your skin."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$16"}]]}],"$L17","$L18","$L19"]}]]}]
+1a:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      9:["$","div","Laser",{"children":[["$","div",null,{"style":{"marginBottom":34,"display":"flex","alignItems":"baseline","gap":18,"flexWrap":"wrap"},"children":[["$","$L4",null,{"children":["$","h2",null,{"className":"type-display-md font-display","children":"Laser"}]}],["$","$L4",null,{"delay":0.1,"children":["$","span",null,{"className":"font-body","style":{"fontSize":13,"color":"var(--color-ink-subtle)","letterSpacing":"0.04em"},"children":[2," treatment","s"]}]}]]}],["$","div",null,{"className":"cs-grid","children":[["$","$L4","laser-hair-removal",{"delay":0,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/laser-hair-removal/","className":"sc-card","aria-label":"Laser Hair Removal","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Laser"}],["$","h3",null,{"className":"font-display sc-title","children":"Laser Hair Removal"}],["$","p",null,{"className":"sc-summary font-body","children":"Hair reduction over a course of sessions. Suitability is assessed at consultation."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$1a"}]]}],"$L1b"]}]]}]
+a:["$","style",null,{"children":"\n        .cs-grid { display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(16px, 2vw, 26px); }\n        @media (max-width: 900px) { .cs-grid { grid-template-columns: repeat(2, 1fr); } }\n        @media (max-width: 560px) { .cs-grid { grid-template-columns: 1fr; } }\n      "}]
+b:["$","section",null,{"className":"band-champagne","style":{"position":"relative","overflow":"hidden"},"children":[["$","div",null,{"className":"glow-rose","style":{"position":"absolute","inset":0,"opacity":0.6,"pointerEvents":"none"}}],["$","div",null,{"className":"container-editorial","style":{"position":"relative","paddingBlock":96,"textAlign":"center"},"children":["$","$L4",null,{"children":[["$","span",null,{"className":"type-muse","style":{"fontSize":"clamp(1rem, 2vw, 1.25rem)"},"children":"Considered, doctor-led aesthetic care."}],["$","h2",null,{"className":"type-display-lg font-display","style":{"margin":"18px auto 20px","maxWidth":"18ch"},"children":"Ready to book a consultation?"}],["$","p",null,{"className":"type-body-lg","style":{"maxWidth":"56ch","margin":"0 auto 36px"},"children":"Book a consultation at our Parramatta or Maitland clinic and our doctor-led team will assess your concerns and talk you through suitable options."}],["$","div",null,{"style":{"display":"flex","gap":14,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$Ld",null,{"href":"/book/","className":"btn btn-rose","children":"Book Now"}],["$","$Ld",null,{"href":"/contact/","className":"btn btn-ghost","children":"Contact the Clinic"}]]}]]}]}]]}]
+c:["$","$L1c",null,{"children":["$","$1d",null,{"name":"Next.MetadataOutlet","children":"$@1e"}]}]
+1f:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      f:["$","$L4","skin-quality-consultation",{"delay":0.08,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/skin-quality-consultation/","className":"sc-card","aria-label":"Skin Quality Consultation","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Consultations"}],["$","h3",null,{"className":"font-display sc-title","children":"Skin Quality Consultation"}],["$","p",null,{"className":"sc-summary font-body","children":"A consultation with a registered practitioner about skin firmness, texture and hydration. Suitability and any treatment are assessed individually."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$1f"}]]}]
+20:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      10:["$","$L4","intravenous-therapy-consultation",{"delay":0.16,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/intravenous-therapy-consultation/","className":"sc-card","aria-label":"Intravenous Therapy Consultation","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Consultations"}],["$","h3",null,{"className":"font-display sc-title","children":"Intravenous Therapy Consultation"}],["$","p",null,{"className":"sc-summary font-body","children":"An individual medical consultation to discuss health concerns, medical history and relevant investigations."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$20"}]]}]
+21:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      11:["$","$L4","breast-skin-consultation",{"delay":0,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/breast-skin-consultation/","className":"sc-card","aria-label":"Breast Skin Consultation","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Consultations"}],["$","h3",null,{"className":"font-display sc-title","children":"Breast Skin Consultation"}],["$","p",null,{"className":"sc-summary font-body","children":"A consultation to assess individual concerns and determine whether any procedure may be appropriate."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$21"}]]}]
+22:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      12:["$","$L4","non-surgical-fat-reduction-consultation",{"delay":0.08,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/non-surgical-fat-reduction-consultation/","className":"sc-card","aria-label":"Non-Surgical Fat Reduction Consultation","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Consultations"}],["$","h3",null,{"className":"font-display sc-title","children":"Non-Surgical Fat Reduction Consultation"}],["$","p",null,{"className":"sc-summary font-body","children":"A consultation with a registered practitioner about localised fat concerns. Suitability and any treatment are assessed individually."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$22"}]]}]
+23:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      13:["$","$L4","vaginal-health-consultation",{"delay":0.16,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/vaginal-health-consultation/","className":"sc-card","aria-label":"Vaginal Health Consultation","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Consultations"}],["$","h3",null,{"className":"font-display sc-title","children":"Vaginal Health Consultation"}],["$","p",null,{"className":"sc-summary font-body","children":"A clinical consultation to determine whether a radiofrequency procedure may be appropriate."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$23"}]]}]
+24:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      14:["$","$L4","non-surgical-nose-augmentation",{"delay":0,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/non-surgical-nose-augmentation/","className":"sc-card","aria-label":"Non-Surgical Nose Augmentation","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Consultations"}],["$","h3",null,{"className":"font-display sc-title","children":"Non-Surgical Nose Augmentation"}],["$","p",null,{"className":"sc-summary font-body","children":"Non-surgical medical consultation which may improve the nasal profile without surgery. Suitability and any treatment are assessed individually."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$24"}]]}]
+25:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      17:["$","$L4","pearly-white-cosmetic-teeth-whitening",{"delay":0.08,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/pearly-white-cosmetic-teeth-whitening/","className":"sc-card","aria-label":"Cosmetic Teeth Whitening","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Skin"}],["$","h3",null,{"className":"font-display sc-title","children":"Cosmetic Teeth Whitening"}],["$","p",null,{"className":"sc-summary font-body","children":"A cosmetic whitening treatment. Suitability is assessed before treatment."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$25"}]]}]
+26:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      18:["$","$L4","skin-needling",{"delay":0.16,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/skin-needling/","className":"sc-card","aria-label":"Skin Needling","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Skin"}],["$","h3",null,{"className":"font-display sc-title","children":"Skin Needling"}],["$","p",null,{"className":"sc-summary font-body","children":"Collagen-induction microneedling. A consultation is required to determine whether it may be appropriate for you."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$26"}]]}]
+27:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      19:["$","$L4","skin-treatments",{"delay":0,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/skin-treatments/","className":"sc-card","aria-label":"Skin Treatments","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Skin"}],["$","h3",null,{"className":"font-display sc-title","children":"Skin Treatments"}],["$","p",null,{"className":"sc-summary font-body","children":"Hydrodermabrasion, LED, oxygen facials and collagen masks. Suitability is assessed before treatment."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$27"}]]}]
+28:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      1b:["$","$L4","pigmentation-vascular",{"delay":0.08,"className":"sc-wrap","children":[["$","$Ld",null,{"href":"/pigmentation-vascular/","className":"sc-card","aria-label":"Laser Pigmentation & Vascular","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Laser"}],["$","h3",null,{"className":"font-display sc-title","children":"Laser Pigmentation & Vascular"}],["$","p",null,{"className":"sc-summary font-body","children":"A consultation is required to identify the concern and determine whether laser treatment may be appropriate."}],["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$28"}]]}]
+1e:null

@@ -1,0 +1,210 @@
+1:"$Sreact.fragment"
+2:I[8500,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","182","static/chunks/app/%5Bslug%5D/page-ff6e68f37a1d5d1d.js"],""]
+3:I[81,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","182","static/chunks/app/%5Bslug%5D/page-ff6e68f37a1d5d1d.js"],"ParallaxImage"]
+4:I[81,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","182","static/chunks/app/%5Bslug%5D/page-ff6e68f37a1d5d1d.js"],"Reveal"]
+f:I[484,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"BreadcrumbList\",\"itemListElement\":[{\"@type\":\"ListItem\",\"position\":1,\"name\":\"Home\",\"item\":\"https://drfurellaaesthetics.com.au/\"},{\"@type\":\"ListItem\",\"position\":2,\"name\":\"Training\",\"item\":\"https://drfurellaaesthetics.com.au/training/\"},{\"@type\":\"ListItem\",\"position\":3,\"name\":\"Platelet Derived Therapy\",\"item\":\"https://drfurellaaesthetics.com.au/platelet-derived-therapy/\"}]}"}}],["$","script",null,{"type":"application/ld+json","dangerouslySetInnerHTML":{"__html":"{\"@context\":\"https://schema.org\",\"@type\":\"Course\",\"name\":\"Platelet Derived Therapy\",\"description\":\"Explore the clinical applications of Platelet Derived Therapy across aesthetics and musculoskeletal medicine.\",\"provider\":{\"@type\":\"Organization\",\"name\":\"Dr Furella Aesthetics\",\"@id\":\"https://drfurellaaesthetics.com.au#business\"}}"}}],["$","section",null,{"className":"band-blush","style":{"position":"relative","overflow":"hidden"},"children":[["$","div",null,{"className":"glow-rose","style":{"position":"absolute","top":"-20%","right":"-10%","width":"55%","height":"120%","opacity":0.7,"pointerEvents":"none"}}],["$","div",null,{"className":"container-editorial detail-hero-inner","style":{"position":"relative","paddingTop":160,"paddingBottom":72},"children":[["$","nav",null,{"className":"font-body","style":{"marginBottom":26,"fontSize":12,"letterSpacing":"0.05em","color":"var(--color-ink-subtle)"},"children":[["$","$L2",null,{"href":"/","style":{"color":"var(--color-ink-subtle)"},"children":"Home"}],["$","span",null,{"style":{"margin":"0 8px","opacity":0.5},"children":"/"}],["$","$L2",null,{"href":"/training/","style":{"color":"var(--color-ink-subtle)"},"children":"Training"}],["$","span",null,{"style":{"margin":"0 8px","opacity":0.5},"children":"/"}],["$","span",null,{"style":{"color":"var(--rose)"},"children":"Platelet Derived Therapy"}]]}],["$","div",null,{"className":"detail-hero","children":[["$","div",null,{"children":[["$","span",null,{"className":"type-kicker","children":"Practitioner Training"}],["$","h1",null,{"className":"type-display-xl font-display detail-h1","style":{"marginTop":18},"children":"Platelet Derived Therapy"}],["$","p",null,{"className":"type-muse","style":{"marginTop":18,"fontSize":"clamp(1rem, 1.7vw, 1.25rem)"},"children":"Considered, doctor-led aesthetic care."}],["$","p",null,{"className":"type-body-lg","style":{"marginTop":22,"maxWidth":"46ch"},"children":"Explore the clinical applications of Platelet Derived Therapy across aesthetics and musculoskeletal medicine."}],["$","div",null,{"style":{"display":"flex","gap":14,"marginTop":30,"flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/training-enquire-now/","className":"btn btn-rose","children":"Enquire Now"}],["$","$L2",null,{"href":"/course-dates/","className":"btn btn-ghost","children":"Course Dates"}]]}]]}],["$","div",null,{"className":"detail-hero-media","children":["$","$L3",null,{"src":"/img/2149404757.jpg","alt":"Platelet Derived Therapy","className":"img-frame","amount":36,"priority":true}]}]]}]]}]]}],["$","section",null,{"className":"container-editorial","style":{"paddingBlock":90},"children":["$","div",null,{"className":"detail-body","children":[["$","div",null,{"style":{"minWidth":0},"children":["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":56},"children":[["$","$L4","0",{"children":["$","div",null,{"children":[["$","h2",null,{"className":"type-display-md font-display","style":{"marginBottom":18},"children":"Overview"}],["$","div",null,{"style":{"display":"flex","flexDirection":"column","gap":18},"children":[["$","p","0",{"className":"type-body-lg","children":"Practitioners across multiple specialties are increasingly engaging with regenerative medicine and the promising potential it offers. This course explores the diverse clinical applications of Platelet Derived Therapy."}],["$","p","1",{"className":"type-body-lg","children":"For students in aesthetics, the focus is on skin rejuvenation and alopecia. For those in musculoskeletal medicine, such as podiatrists and physiotherapists, we tailor the workshop to your specialty and demonstrate treatment options for conditions like tendinopathies and osteoarthritis. The workshop also includes a practical refresher in venepuncture and blood collection."}]]}]]}]}],"$L5"]}]}],"$L6"]}]}],"$L7","$L8","$L9"],null,"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Z82CdQ0WC8y92LOzv_COl"}
+5:["$","$L4","1",{"children":["$","div",null,{"children":[["$","h2",null,{"className":"type-display-sm font-display","style":{"marginBottom":22},"children":"Course topics"}],["$","ul",null,{"style":{"listStyle":"none","padding":0,"margin":0,"display":"grid","gap":14,"gridTemplateColumns":"repeat(auto-fill, minmax(260px, 1fr))"},"children":[["$","li","0",{"className":"font-body","style":{"display":"flex","gap":12,"alignItems":"flex-start","fontSize":15.5,"lineHeight":1.55,"color":"var(--color-ink-muted)"},"children":[["$","span",null,{"aria-hidden":true,"style":{"color":"var(--rose)","fontSize":18,"lineHeight":1.2,"flexShrink":0},"children":"✦"}],"History, background and centrifuge theory of platelet derived preparations"]}],["$","li","1",{"className":"font-body","style":{"display":"flex","gap":12,"alignItems":"flex-start","fontSize":15.5,"lineHeight":1.55,"color":"var(--color-ink-muted)"},"children":[["$","span",null,{"aria-hidden":true,"style":{"color":"var(--rose)","fontSize":18,"lineHeight":1.2,"flexShrink":0},"children":"✦"}],"Relevant physiology and anatomy"]}],["$","li","2",{"className":"font-body","style":{"display":"flex","gap":12,"alignItems":"flex-start","fontSize":15.5,"lineHeight":1.55,"color":"var(--color-ink-muted)"},"children":[["$","span",null,{"aria-hidden":true,"style":{"color":"var(--rose)","fontSize":18,"lineHeight":1.2,"flexShrink":0},"children":"✦"}],"Indications, contraindications and alternatives"]}],["$","li","3",{"className":"font-body","style":{"display":"flex","gap":12,"alignItems":"flex-start","fontSize":15.5,"lineHeight":1.55,"color":"var(--color-ink-muted)"},"children":[["$","span",null,{"aria-hidden":true,"style":{"color":"var(--rose)","fontSize":18,"lineHeight":1.2,"flexShrink":0},"children":"✦"}],"Comprehensive patient history, assessment and treatment planning"]}],["$","li","4",{"className":"font-body","style":{"display":"flex","gap":12,"alignItems":"flex-start","fontSize":15.5,"lineHeight":1.55,"color":"var(--color-ink-muted)"},"children":[["$","span",null,{"aria-hidden":true,"style":{"color":"var(--rose)","fontSize":18,"lineHeight":1.2,"flexShrink":0},"children":"✦"}],"Venepuncture and blood collection"]}],["$","li","5",{"className":"font-body","style":{"display":"flex","gap":12,"alignItems":"flex-start","fontSize":15.5,"lineHeight":1.55,"color":"var(--color-ink-muted)"},"children":[["$","span",null,{"aria-hidden":true,"style":{"color":"var(--rose)","fontSize":18,"lineHeight":1.2,"flexShrink":0},"children":"✦"}],"Administration using various delivery devices"]}]]}]]}]}]
+6:["$","aside",null,{"className":"detail-aside","children":["$","div",null,{"style":{"position":"sticky","top":110,"display":"flex","flexDirection":"column","gap":20},"children":["$","div",null,{"style":{"background":"var(--ivory)","border":"1px solid var(--color-border-hair)","borderRadius":4,"padding":"30px 28px"},"children":[["$","p",null,{"className":"type-kicker","style":{"marginBottom":18},"children":"Course Details"}],["$","dl",null,{"style":{"margin":0,"display":"flex","flexDirection":"column","gap":16},"children":[["$","div","Ideal for",{"children":[["$","dt",null,{"className":"font-body","style":{"fontSize":11,"letterSpacing":"0.16em","textTransform":"uppercase","color":"var(--color-ink-subtle)","marginBottom":4},"children":"Ideal for"}],["$","dd",null,{"className":"font-body","style":{"margin":0,"fontSize":15,"color":"var(--ink-base)","lineHeight":1.5},"children":"Doctors, Nurses, Nurse Practitioners, Podiatrists, Physiotherapists"}]]}],["$","div","Cost",{"children":[["$","dt",null,{"className":"font-body","style":{"fontSize":11,"letterSpacing":"0.16em","textTransform":"uppercase","color":"var(--color-ink-subtle)","marginBottom":4},"children":"Cost"}],["$","dd",null,{"className":"font-body","style":{"margin":0,"fontSize":15,"color":"var(--ink-base)","lineHeight":1.5},"children":"$$2,000"}]]}],["$","div","CPD",{"children":[["$","dt",null,{"className":"font-body","style":{"fontSize":11,"letterSpacing":"0.16em","textTransform":"uppercase","color":"var(--color-ink-subtle)","marginBottom":4},"children":"CPD"}],["$","dd",null,{"className":"font-body","style":{"margin":0,"fontSize":15,"color":"var(--ink-base)","lineHeight":1.5},"children":"16 CPD points"}]]}],["$","div","Format",{"children":[["$","dt",null,{"className":"font-body","style":{"fontSize":11,"letterSpacing":"0.16em","textTransform":"uppercase","color":"var(--color-ink-subtle)","marginBottom":4},"children":"Format"}],["$","dd",null,{"className":"font-body","style":{"margin":0,"fontSize":15,"color":"var(--ink-base)","lineHeight":1.5},"children":"Theory module + one-day practical workshop"}]]}]]}],["$","$L2",null,{"href":"/training-enquire-now/","className":"btn btn-rose","style":{"width":"100%","marginTop":24},"children":"Enquire About This Course"}]]}]}]}]
+b:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      7:["$","section",null,{"className":"band-ivory","style":{"paddingBlock":90},"children":["$","div",null,{"className":"container-editorial","children":[["$","div",null,{"style":{"display":"flex","justifyContent":"space-between","alignItems":"flex-end","flexWrap":"wrap","gap":16,"marginBottom":40},"children":[["$","$L4",null,{"children":["$","h2",null,{"className":"type-display-md font-display","children":"More Training"}]}],["$","$L4",null,{"delay":0.1,"children":["$","$L2",null,{"href":"/training/","className":"btn btn-text","children":"All courses →"}]}]]}],["$","div",null,{"style":{"display":"grid","gap":"clamp(16px, 2vw, 26px)","gridTemplateColumns":"repeat(3, 1fr)"},"className":"related-grid","children":[["$","$L4","introduction-to-cosmetic-injectables",{"delay":0,"className":"sc-wrap","children":[["$","$L2",null,{"href":"/introduction-to-cosmetic-injectables/","className":"sc-card","aria-label":"Introduction to Cosmetic Injectables","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Training"}],["$","h3",null,{"className":"font-display sc-title","children":"Introduction to Cosmetic Injectables"}],false,["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$b"}]]}],"$Lc","$Ld"]}]]}]}]
+8:["$","section",null,{"className":"band-champagne","style":{"position":"relative","overflow":"hidden"},"children":[["$","div",null,{"className":"glow-rose","style":{"position":"absolute","inset":0,"opacity":0.6,"pointerEvents":"none"}}],["$","div",null,{"className":"container-editorial","style":{"position":"relative","paddingBlock":96,"textAlign":"center"},"children":["$","$L4",null,{"children":[["$","span",null,{"className":"type-muse","style":{"fontSize":"clamp(1rem, 2vw, 1.25rem)"},"children":"Considered, doctor-led aesthetic care."}],["$","h2",null,{"className":"type-display-lg font-display","style":{"margin":"18px auto 20px","maxWidth":"18ch"},"children":"Ready to start your new career?"}],["$","p",null,{"className":"type-body-lg","style":{"maxWidth":"56ch","margin":"0 auto 36px"},"children":"Book a consultation at our Parramatta or Maitland clinic and our doctor-led team will assess your concerns and talk you through suitable options."}],["$","div",null,{"style":{"display":"flex","gap":14,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L2",null,{"href":"/training-enquire-now/","className":"btn btn-rose","children":"Enquire Now"}],["$","$L2",null,{"href":"/contact/","className":"btn btn-ghost","children":"Contact the Clinic"}]]}]]}]}]]}]
+e:T40e,
+        .detail-hero { display: grid; grid-template-columns: 1.05fr 0.95fr; gap: clamp(28px, 4vw, 64px); align-items: center; }
+        .detail-hero-solo { grid-template-columns: 1fr; max-width: 62ch; }
+        .detail-hero-media { aspect-ratio: 4 / 5; }
+        .detail-body { display: grid; grid-template-columns: minmax(0, 1fr) 320px; gap: clamp(32px, 5vw, 64px); align-items: start; }
+        @media (max-width: 900px) {
+          .detail-hero { grid-template-columns: 1fr; gap: 28px; }
+          .detail-hero-media { order: -1; max-width: 440px; }
+          .detail-body { grid-template-columns: 1fr; }
+          .detail-aside { max-width: 440px; }
+          .related-grid { grid-template-columns: 1fr !important; }
+        }
+        @media (max-width: 640px) {
+          .detail-hero-inner { padding-top: 104px !important; padding-bottom: 44px !important; }
+          .detail-hero-media { max-width: none; aspect-ratio: 4 / 3; }
+          .detail-h1 { font-size: 2.15rem !important; line-height: 1.08 !important; }
+        }
+      9:["$","style",null,{"children":"$e"}]
+a:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+12:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      c:["$","$L4","advanced-cosmetic-injectables",{"delay":0.08,"className":"sc-wrap","children":[["$","$L2",null,{"href":"/advanced-cosmetic-injectables/","className":"sc-card","aria-label":"Advanced Cosmetic Injectables","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Training"}],["$","h3",null,{"className":"font-display sc-title","children":"Advanced Cosmetic Injectables"}],false,["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$12"}]]}]
+13:Taa3,
+        .sc-wrap { height: 100%; }
+        .sc-card {
+          position: relative; display: flex; flex-direction: column;
+          height: 100%; min-height: 260px; overflow: hidden;
+          padding: 30px 28px 26px; text-decoration: none;
+          background: var(--ivory);
+          border: 1px solid var(--color-border-hair);
+          border-radius: 3px;
+          transition: background 0.5s ease, border-color 0.5s ease,
+                      transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover {
+          background: color-mix(in oklab, var(--blush) 42%, var(--ivory));
+          border-color: color-mix(in oklab, var(--rose) 26%, transparent);
+          transform: translateY(-4px);
+        }
+        /* rose bar that draws down the left edge on hover */
+        .sc-rule {
+          position: absolute; left: 0; top: 0; bottom: 0; width: 2px;
+          background: var(--rose);
+          transform: scaleY(0); transform-origin: top;
+          transition: transform 0.55s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-rule { transform: scaleY(1); }
+        .sc-cat {
+          position: relative; font-size: 10.5px; letter-spacing: 0.24em;
+          text-transform: uppercase; color: var(--rose-gold);
+        }
+        .sc-title {
+          position: relative; margin: 14px 0 0; max-width: 15ch;
+          font-size: clamp(1.3rem, 1.7vw, 1.6rem); line-height: 1.14;
+          color: var(--ink-base);
+        }
+        .sc-summary {
+          position: relative; margin: 14px 0 0; font-size: 13.5px; line-height: 1.6;
+          color: var(--color-ink-muted);
+          display: -webkit-box; -webkit-line-clamp: 3; -webkit-box-orient: vertical;
+          overflow: hidden;
+        }
+        .sc-foot {
+          position: relative; display: flex; align-items: center; gap: 10px;
+          margin-top: auto; padding-top: 26px;
+          font-size: 11px; letter-spacing: 0.22em; text-transform: uppercase;
+          color: var(--ink-base);
+        }
+        .sc-more { position: relative; padding-bottom: 4px; }
+        .sc-more::after {
+          content: ''; position: absolute; left: 0; bottom: 0; height: 1px; width: 100%;
+          background: var(--rose);
+          transform: scaleX(0); transform-origin: left;
+          transition: transform 0.5s cubic-bezier(0.22,1,0.36,1);
+        }
+        .sc-card:hover .sc-more::after { transform: scaleX(1); }
+        .sc-arrow { color: var(--rose); transition: transform 0.45s cubic-bezier(0.22,1,0.36,1); }
+        .sc-card:hover .sc-arrow { transform: translateX(6px); }
+        @media (prefers-reduced-motion: reduce) {
+          .sc-card, .sc-rule, .sc-arrow, .sc-more::after { transition: none; }
+        }
+      d:["$","$L4","iv-vitamin-therapy",{"delay":0.16,"className":"sc-wrap","children":[["$","$L2",null,{"href":"/iv-vitamin-therapy/","className":"sc-card","aria-label":"IV Vitamin Therapy","children":[["$","span",null,{"className":"sc-rule","aria-hidden":true}],["$","span",null,{"className":"sc-cat font-body","children":"Training"}],["$","h3",null,{"className":"font-display sc-title","children":"IV Vitamin Therapy"}],false,["$","span",null,{"className":"sc-foot","children":[["$","span",null,{"className":"sc-more font-body","children":"Learn More"}],["$","span",null,{"className":"sc-arrow","aria-hidden":true,"children":"→"}]]}]]}],["$","style",null,{"children":"$13"}]]}]
+11:null

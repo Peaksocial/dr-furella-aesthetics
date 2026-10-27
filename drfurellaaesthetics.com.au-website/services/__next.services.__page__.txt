@@ -1,0 +1,85 @@
+1:"$Sreact.fragment"
+2:I[81,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","763","static/chunks/app/services/page-9f00a23b7b199879.js"],"RevealLines"]
+3:I[81,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","763","static/chunks/app/services/page-9f00a23b7b199879.js"],"Reveal"]
+4:I[8500,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","763","static/chunks/app/services/page-9f00a23b7b199879.js"],""]
+c:I[484,[],"OutletBoundary"]
+d:"$Sreact.suspense"
+0:{"rsc":["$","$1","c",{"children":[[["$","section",null,{"className":"band-blush","style":{"position":"relative","overflow":"hidden"},"children":[["$","div",null,{"className":"glow-rose","style":{"position":"absolute","top":"-30%","right":"-10%","width":"60%","height":"120%","opacity":0.7,"pointerEvents":"none"}}],["$","div",null,{"className":"container-editorial","style":{"position":"relative","paddingTop":168,"paddingBottom":72},"children":["$undefined",["$","div",null,{"style":{"marginBottom":20},"children":["$","span",null,{"className":"type-kicker","children":"Services"}]}],["$","$L2",null,{"lines":["Two paths,","one standard of care."],"className":"type-display-xl font-display","delay":0.05}],["$","$L3",null,{"delay":0.25,"children":["$","p",null,{"className":"type-muse","style":{"marginTop":22,"fontSize":"clamp(1.05rem, 2vw, 1.4rem)"},"children":"Considered, doctor-led aesthetic care."}]}],["$","$L3",null,{"delay":0.35,"children":["$","p",null,{"className":"type-body-lg","style":{"marginTop":26,"maxWidth":"62ch"},"children":"Everything at Dr Furella Aesthetics is doctor-led. Choose the path that fits what you are looking for: refined cosmetic treatments, or a medical consultation for concerns that call for clinical expertise."}]}]]}]]}],["$","section",null,{"className":"container-editorial","style":{"paddingBlock":80},"children":["$","div",null,{"className":"flow-grid","children":[[["$","$L3","/cosmetic-services/",{"delay":0,"className":"flow-wrap","children":["$","$L4",null,{"href":"/cosmetic-services/","className":"flow-card flow-light","children":[["$","span",null,{"className":"flow-count font-body","children":[14," treatments"]}],["$","h3",null,{"className":"type-display-lg font-display flow-title","children":"Cosmetic Services"}],["$","p",null,{"className":"type-body flow-copy","children":"Skin, laser, needling and body contouring, plus doctor-led consultations that refine your natural features."}],["$","ul",null,{"className":"flow-list","children":[[["$","li","facial-concerns-consultation",{"className":"font-body flow-item","children":[["$","span",null,{"className":"flow-tick","aria-hidden":true,"children":"✦"}],"Facial Concerns Consultation"]}],["$","li","skin-quality-consultation",{"className":"font-body flow-item","children":[["$","span",null,{"className":"flow-tick","aria-hidden":true,"children":"✦"}],"Skin Quality Consultation"]}],["$","li","chemical-peels",{"className":"font-body flow-item","children":[["$","span",null,{"className":"flow-tick","aria-hidden":true,"children":"✦"}],"Chemical Peels"]}],["$","li","laser-hair-removal",{"className":"font-body flow-item","children":[["$","span",null,{"className":"flow-tick","aria-hidden":true,"children":"✦"}],"Laser Hair Removal"]}],["$","li","pigmentation-vascular",{"className":"font-body flow-item","children":[["$","span",null,{"className":"flow-tick","aria-hidden":true,"children":"✦"}],"Laser Pigmentation & Vascular"]}]],["$","li",null,{"className":"font-body flow-item flow-item-rest","children":[["$","span",null,{"className":"flow-tick","aria-hidden":true,"children":"✦"}],"and ",9," more"]}]]}],["$","span",null,{"className":"flow-more font-body","children":["Explore ",["$","span",null,{"aria-hidden":true,"children":"→"}]]}]]}]}],["$","$L3","/medical-consultations/",{"delay":0.08,"className":"flow-wrap","children":["$","$L4",null,{"href":"/medical-consultations/","className":"flow-card flow-dark","children":[["$","span",null,{"className":"flow-count font-body","children":[11," treatments"]}],["$","h3",null,{"className":"type-display-lg font-display flow-title","children":"Medical Consultations"}],["$","p",null,{"className":"type-body flow-copy","children":"Sclerotherapy, minor procedures, regenerative and wellness treatments. Clinical care from a registered doctor."}],["$","ul",null,{"className":"flow-list","children":[[["$","li","suture-otoplasty",{"className":"font-body flow-item","children":[["$","span",null,{"className":"flow-tick","aria-hidden":true,"children":"✦"}],"Suture Otoplasty"]}],["$","li","sclerotherapy",{"className":"font-body flow-item","children":[["$","span",null,{"className":"flow-tick","aria-hidden":true,"children":"✦"}],"Sclerotherapy"]}],["$","li","earlobe",{"className":"font-body flow-item","children":[["$","span",null,{"className":"flow-tick","aria-hidden":true,"children":"✦"}],"Earlobe Repair & Reconstruction"]}],["$","li","ingrown-toenail",{"className":"font-body flow-item","children":[["$","span",null,{"className":"flow-tick","aria-hidden":true,"children":"✦"}],"Ingrown Toenail Correction"]}],"$L5"],"$L6"]}],"$L7"]}]}]],"$L8"]}]}],"$L9"],null,"$La"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Z82CdQ0WC8y92LOzv_COl"}
+5:["$","li","non-surgical-spiral",{"className":"font-body flow-item","children":[["$","span",null,{"className":"flow-tick","aria-hidden":true,"children":"✦"}],"Non-Surgical Spiral Facelift"]}]
+6:["$","li",null,{"className":"font-body flow-item flow-item-rest","children":[["$","span",null,{"className":"flow-tick","aria-hidden":true,"children":"✦"}],"and ",6," more"]}]
+7:["$","span",null,{"className":"flow-more font-body","children":["Explore ",["$","span",null,{"aria-hidden":true,"children":"→"}]]}]
+b:Te29,
+        .flow-grid { display: grid; grid-template-columns: 1fr 1fr; gap: clamp(16px, 2vw, 28px); }
+        .flow-wrap { height: 100%; }
+        .flow-card {
+          position: relative; display: flex; flex-direction: column; height: 100%;
+          overflow: hidden; isolation: isolate;
+          padding: clamp(30px, 3.4vw, 52px);
+          border-radius: 4px; text-decoration: none;
+          transition: transform .6s cubic-bezier(.22,1,.36,1), box-shadow .6s ease;
+        }
+        .flow-card::after {
+          /* soft rose bloom that swells from the lower corner on hover */
+          content: ''; position: absolute; right: -18%; bottom: -30%;
+          width: 62%; aspect-ratio: 1; border-radius: 50%; z-index: 0;
+          background: radial-gradient(circle, color-mix(in oklab, var(--rose) 22%, transparent) 0%, transparent 70%);
+          transform: scale(0.6); opacity: 0;
+          transition: transform .9s cubic-bezier(.22,1,.36,1), opacity .7s ease;
+        }
+        .flow-card > * { position: relative; z-index: 1; }
+        .flow-card:hover { transform: translateY(-5px); }
+        .flow-card:hover::after { transform: scale(1); opacity: 1; }
+
+        .flow-light {
+          background: linear-gradient(160deg, var(--ivory) 0%, color-mix(in oklab, var(--blush) 62%, var(--ivory)) 100%);
+          border: 1px solid var(--color-border-hair);
+        }
+        .flow-dark {
+          background: var(--ink-base);
+          border: 1px solid color-mix(in oklab, var(--ivory) 14%, transparent);
+        }
+
+        .flow-count {
+          font-size: 10.5px; letter-spacing: 0.24em; text-transform: uppercase;
+          color: var(--rose-gold);
+        }
+        .flow-title { margin-top: 16px; line-height: 1.06; }
+        .flow-light .flow-title { color: var(--ink-base); }
+        .flow-dark .flow-title { color: var(--ivory); }
+        .flow-copy { margin-top: 16px; max-width: 38ch; }
+        .flow-light .flow-copy { color: var(--color-ink-muted); }
+        .flow-dark .flow-copy { color: color-mix(in oklab, var(--ivory) 74%, transparent); }
+
+        .flow-list {
+          list-style: none; margin: clamp(24px, 2.6vw, 36px) 0 0; padding: 0;
+          display: grid; gap: 0; border-top: 1px solid var(--flow-hair);
+        }
+        .flow-light { --flow-hair: var(--color-border-hair); --flow-item: var(--ink-base); }
+        .flow-dark { --flow-hair: color-mix(in oklab, var(--ivory) 15%, transparent); --flow-item: color-mix(in oklab, var(--ivory) 88%, transparent); }
+        .flow-item {
+          display: flex; align-items: center; gap: 12px;
+          padding: 11px 0; font-size: 14px; letter-spacing: 0.01em;
+          color: var(--flow-item); border-bottom: 1px solid var(--flow-hair);
+        }
+        .flow-item-rest { color: var(--rose-gold); }
+        .flow-tick { color: var(--rose-gold); font-size: 9px; }
+
+        .flow-more {
+          display: inline-flex; align-items: center; gap: 10px; margin-top: auto;
+          padding-top: clamp(24px, 2.4vw, 34px);
+          text-transform: uppercase; letter-spacing: 0.22em; font-size: 11.5px;
+          color: var(--rose-gold);
+        }
+        .flow-dark .flow-more span { color: var(--ivory); }
+        .flow-light .flow-more span { color: var(--rose); }
+        .flow-more span { transition: transform .45s cubic-bezier(.2,.7,.2,1); }
+        .flow-card:hover .flow-more span { transform: translateX(6px); }
+
+        @media (max-width: 720px) { .flow-grid { grid-template-columns: 1fr; } }
+        @media (prefers-reduced-motion: reduce) {
+          .flow-card, .flow-card::after, .flow-more span { transition: none; }
+        }
+      8:["$","style",null,{"children":"$b"}]
+9:["$","section",null,{"className":"band-champagne","style":{"position":"relative","overflow":"hidden"},"children":[["$","div",null,{"className":"glow-rose","style":{"position":"absolute","inset":0,"opacity":0.6,"pointerEvents":"none"}}],["$","div",null,{"className":"container-editorial","style":{"position":"relative","paddingBlock":96,"textAlign":"center"},"children":["$","$L3",null,{"children":[["$","span",null,{"className":"type-muse","style":{"fontSize":"clamp(1rem, 2vw, 1.25rem)"},"children":"Considered, doctor-led aesthetic care."}],["$","h2",null,{"className":"type-display-lg font-display","style":{"margin":"18px auto 20px","maxWidth":"18ch"},"children":"Ready to book a consultation?"}],["$","p",null,{"className":"type-body-lg","style":{"maxWidth":"56ch","margin":"0 auto 36px"},"children":"Book a consultation at our Parramatta or Maitland clinic and our doctor-led team will assess your concerns and talk you through suitable options."}],["$","div",null,{"style":{"display":"flex","gap":14,"justifyContent":"center","flexWrap":"wrap"},"children":[["$","$L4",null,{"href":"/book/","className":"btn btn-rose","children":"Book Now"}],["$","$L4",null,{"href":"/contact/","className":"btn btn-ghost","children":"Contact the Clinic"}]]}]]}]}]]}]
+a:["$","$Lc",null,{"children":["$","$d",null,{"name":"Next.MetadataOutlet","children":"$@e"}]}]
+e:null

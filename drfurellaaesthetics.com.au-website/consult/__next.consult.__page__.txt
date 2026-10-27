@@ -1,0 +1,159 @@
+1:"$Sreact.fragment"
+2:I[8213,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","374","static/chunks/374-d86be672a3d6d719.js","933","static/chunks/app/consult/page-f6f6012499cf3c35.js"],"default"]
+3:I[81,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","374","static/chunks/374-d86be672a3d6d719.js","933","static/chunks/app/consult/page-f6f6012499cf3c35.js"],"Reveal"]
+c:I[8437,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","374","static/chunks/374-d86be672a3d6d719.js","933","static/chunks/app/consult/page-f6f6012499cf3c35.js"],"Image"]
+d:I[8500,["326","static/chunks/326-1dd69902e92d56e0.js","500","static/chunks/500-c99b8dfd3de17c86.js","374","static/chunks/374-d86be672a3d6d719.js","933","static/chunks/app/consult/page-f6f6012499cf3c35.js"],""]
+f:I[484,[],"OutletBoundary"]
+10:"$Sreact.suspense"
+:HL["/img/logo-mark.png","image",{"fetchPriority":"high"}]
+0:{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"cn-head","children":["$","div",null,{"className":"container-editorial cn-head-inner","children":[["$","img",null,{"src":"/img/logo-mark.png","alt":"Dr Furella Aesthetics","width":628,"height":895,"fetchPriority":"high","decoding":"async","style":{"height":44,"width":"auto"}}],["$","a",null,{"href":"tel:0432122959","className":"font-body cn-head-phone","children":[["$","span",null,{"aria-hidden":true,"className":"cn-head-phone-mark"}],"0432 122 959"]}]]}]}],["$","section",null,{"className":"band-blush cn-hero-band","children":[["$","div",null,{"className":"glow-rose cn-glow"}],["$","div",null,{"className":"container-editorial cn-hero","children":[["$","div",null,{"className":"cn-hero-lede","children":[["$","h1",null,{"className":"font-display cn-h1","children":[["$","span","Doctor-led skin",{"className":"cn-line","children":["$","span",null,{"className":"cn-line-in","style":{"animationDelay":"0.05s"},"children":"Doctor-led skin"}]}],["$","span","consultations in Parramatta",{"className":"cn-line","children":["$","span",null,{"className":"cn-line-in","style":{"animationDelay":"0.16999999999999998s"},"children":"consultations in Parramatta"}]}],["$","span","and Maitland.",{"className":"cn-line","children":["$","span",null,{"className":"cn-line-in","style":{"animationDelay":"0.29s"},"children":"and Maitland."}]}]]}],["$","p",null,{"className":"font-body cn-sub cn-rise","style":{"animationDelay":"0.42s"},"children":"Dr Furyal Moughal examines your skin in person, explains what is actually causing the concern, and sets out a staged plan. Answer three questions and the clinic will call you back."}]]}],["$","div",null,{"className":"cn-hero-form cn-rise","style":{"animationDelay":"0.18s"},"children":["$","$L2",null,{}]}],["$","div",null,{"className":"cn-hero-proof","children":[["$","ul",null,{"className":"cn-proof cn-rise","style":{"animationDelay":"0.54s"},"children":[["$","li","Every patient examined by a registered doctor",{"className":"font-body","children":[["$","span",null,{"aria-hidden":true,"children":"◆"}],"Every patient examined by a registered doctor"]}],["$","li","Dr Moughal trains doctors and nurses for Alma",{"className":"font-body","children":[["$","span",null,{"aria-hidden":true,"children":"◆"}],"Dr Moughal trains doctors and nurses for Alma"]}],["$","li","Two clinics, Parramatta and Maitland",{"className":"font-body","children":[["$","span",null,{"aria-hidden":true,"children":"◆"}],"Two clinics, Parramatta and Maitland"]}],["$","li","We will say when no treatment is the right answer",{"className":"font-body","children":[["$","span",null,{"aria-hidden":true,"children":"◆"}],"We will say when no treatment is the right answer"]}]]}],["$","p",null,{"className":"font-body cn-callnote cn-rise","style":{"animationDelay":"0.62s"},"children":["Rather talk it through now? ",["$","a",null,{"href":"tel:0432122959","children":["Call the clinic on ","0432 122 959"]}],"."]}]]}]]}]]}],["$","section",null,{"className":"container-editorial cn-steps-wrap","children":[["$","$L3",null,{"children":["$","h2",null,{"className":"font-display cn-h2","children":"What the consultation actually is."}]}],["$","div",null,{"className":"cn-spine","children":[["$","$L3","01",{"delay":0,"children":["$","div",null,{"className":"cn-step","children":[["$","span",null,{"aria-hidden":true,"className":"cn-step-node"}],["$","span",null,{"className":"font-body cn-step-n","children":"01"}],["$","h3",null,{"className":"font-display cn-step-t","children":"The doctor examines your skin."}],["$","p",null,{"className":"font-body cn-step-b","children":"In person, at the clinic, in proper light. Your skin type and the pattern of the pigment both change what can be used, and neither reads accurately off a photo."}]]}]}],["$","$L3","02",{"delay":0.06,"children":["$","div",null,{"className":"cn-step","children":[["$","span",null,{"aria-hidden":true,"className":"cn-step-node"}],["$","span",null,{"className":"font-body cn-step-n","children":"02"}],["$","h3",null,{"className":"font-display cn-step-t","children":"You are told what is causing it."}],["$","p",null,{"className":"font-body cn-step-b","children":"Melasma, sun damage and post-acne marks look alike and need different treatment. Naming the right one is most of the work."}]]}]}],["$","$L3","03",{"delay":0.12,"children":["$","div",null,{"className":"cn-step","children":[["$","span",null,{"aria-hidden":true,"className":"cn-step-node"}],"$L4","$L5","$L6"]}]}]]}]]}],"$L7","$L8","$L9","$La"],null,"$Lb"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Z82CdQ0WC8y92LOzv_COl"}
+4:["$","span",null,{"className":"font-body cn-step-n","children":"03"}]
+5:["$","h3",null,{"className":"font-display cn-step-t","children":"You get a staged plan."}]
+6:["$","p",null,{"className":"font-body cn-step-b","children":"What to do first, what to leave alone, and what a realistic result looks like. Scarring and pigmentation are improved rather than erased, and you will hear that from us before you start."}]
+7:["$","section",null,{"className":"band-ivory cn-doc-band","children":["$","div",null,{"className":"container-editorial cn-doc","children":[["$","div",null,{"className":"img-frame cn-doc-img","children":["$","$Lc",null,{"src":"/img/HannahRachaelPhotography-16-scaled.jpg","alt":"Dr Furyal Moughal at the Dr Furella Aesthetics clinic","width":2560,"height":1707,"sizes":"(max-width: 1024px) 100vw, 46vw","className":"img-cover"}]}],["$","div",null,{"className":"cn-doc-copy","children":[["$","$L3",null,{"children":["$","h2",null,{"className":"font-display cn-h2","children":"Why it is done in person."}]}],["$","$L3",null,{"delay":0.06,"children":["$","p",null,{"className":"font-body cn-doc-p","children":"The wrong laser setting can darken pigmentation instead of clearing it. That is the whole reason skin type gets assessed in the room rather than from a photo or a form, and the reason this clinic starts with an assessment rather than a treatment."}]}],["$","$L3",null,{"delay":0.12,"children":["$","p",null,{"className":"font-body cn-doc-p","children":"The clinic practises conservatively. If waiting is the better call, or if no treatment is the right answer for you, you will be told that in the consultation rather than sold something anyway."}]}],["$","$L3",null,{"delay":0.18,"children":["$","p",null,{"className":"font-body cn-doc-p","children":"Dr Furyal Moughal is a registered medical practitioner with a background in emergency medicine and general practice, and Medical Director of the clinic. She is a Clinical Trainer for Alma, delivering masterclasses to doctors and nurses around Australia."}]}],["$","$L3",null,{"delay":0.24,"children":["$","p",null,{"className":"font-body cn-doc-reg","children":"AHPRA registration MED0002075534"}]}]]}]]}]}]
+8:["$","section",null,{"className":"band-champagne cn-close-band","children":[["$","div",null,{"className":"glow-rose cn-close-glow"}],["$","div",null,{"className":"container-editorial cn-close","children":["$","$L3",null,{"children":[["$","h2",null,{"className":"font-display cn-close-h","children":"Have a doctor look at it properly."}],["$","p",null,{"className":"font-body cn-close-p","children":"Three questions, then your details. The clinic rings you back to arrange a time at Parramatta or Maitland."}],["$","div",null,{"className":"cn-close-actions","children":[["$","a",null,{"href":"#request","className":"btn btn-rose","children":"Start the questions"}],["$","a",null,{"href":"tel:0432122959","className":"btn btn-ghost","children":["Call ","0432 122 959"]}]]}]]}]}]]}]
+9:["$","footer",null,{"className":"cn-foot","children":["$","div",null,{"className":"container-editorial","children":[["$","div",null,{"className":"cn-foot-top font-body","children":[[["$","span","Parramatta",{"children":"146 Pennant Street, Parramatta NSW 2151"}],["$","span","Maitland",{"children":"15 Bourke Street, Maitland NSW 2320"}]],["$","a",null,{"href":"tel:0432122959","children":"0432 122 959"}]]}],["$","p",null,{"className":"font-body cn-foot-note","children":"Patients must be 18 or over. A consultation is required to work out whether any treatment is suitable for you, and individual results vary. Any procedure carries risk and should be discussed with a qualified health practitioner."}],["$","p",null,{"className":"font-body cn-foot-copy","children":["Dr Furella Aesthetics. Doctors registered with AHPRA."," ",["$","$Ld",null,{"href":"/privacy/","prefetch":false,"target":"_blank","rel":"nofollow noopener","children":"Privacy policy"}]]}]]}]}]
+e:T3636,
+        /* ── header ─────────────────────────────────────────────────── */
+        .cn-head { border-bottom: 1px solid var(--color-border-hair); background: var(--cream); }
+        .cn-head-inner { display: flex; align-items: center; justify-content: space-between; height: 74px; gap: 16px; }
+        .cn-head-phone { display: inline-flex; align-items: center; gap: 9px; font-size: 15px; letter-spacing: 0.02em; color: var(--ink-base); white-space: nowrap; padding: 10px 0; }
+        .cn-head-phone-mark { width: 6px; height: 6px; border-radius: 999px; background: var(--rose); flex-shrink: 0; }
+        .cn-head-phone:hover { color: var(--rose); }
+
+        /* ── hero ───────────────────────────────────────────────────── */
+        .cn-hero-band { position: relative; overflow: hidden; }
+        .cn-glow { position: absolute; top: -46%; left: -14%; width: 62%; height: 140%; opacity: 0.55; pointer-events: none; }
+        /* Two columns on a desktop, but the areas let a phone reorder to
+           headline, then form, then the proof points, so the message match
+           and the one action both sit above the fold on a small screen. */
+        .cn-hero { position: relative; display: grid; grid-template-columns: 1.02fr 0.98fr; grid-template-rows: auto 1fr; grid-template-areas: "lede form" "proof form"; column-gap: clamp(40px, 5vw, 76px); align-items: start; padding-top: clamp(44px, 6vw, 78px); padding-bottom: clamp(60px, 8vw, 104px); }
+        .cn-hero-lede { grid-area: lede; padding-top: clamp(0px, 1.5vw, 20px); }
+        .cn-hero-form { grid-area: form; }
+        .cn-hero-proof { grid-area: proof; }
+
+        .cn-h1 { font-size: clamp(2.05rem, 4.4vw, 3.3rem); line-height: 1.08; letter-spacing: -0.012em; color: var(--ink-base); }
+        .cn-line { display: block; overflow: hidden; padding-bottom: 0.06em; }
+        .cn-line-in { display: block; will-change: transform; animation: cn-line-up 0.85s cubic-bezier(0.22, 1, 0.36, 1) both; }
+        @keyframes cn-line-up { from { transform: translateY(110%); } to { transform: none; } }
+        .cn-rise { animation: cn-rise 0.9s cubic-bezier(0.22, 1, 0.36, 1) both; }
+        @keyframes cn-rise { from { opacity: 0; transform: translateY(26px); } to { opacity: 1; transform: none; } }
+        /* globals.css collapses the duration for reduced motion but not the
+           delay, which would leave these sitting invisible. Clear it too. */
+        @media (prefers-reduced-motion: reduce) {
+          .cn-line-in, .cn-rise, .cn-panel { animation-delay: 0s !important; }
+        }
+        .cn-sub { margin-top: clamp(20px, 2.6vw, 28px); max-width: 44ch; font-size: clamp(1.02rem, 1.25vw, 1.14rem); line-height: 1.72; font-weight: 300; color: var(--color-ink-muted); }
+
+        .cn-proof { list-style: none; margin: clamp(28px, 3.4vw, 38px) 0 0; padding: clamp(24px, 3vw, 30px) 0 0; border-top: 1px solid var(--color-border-hair); display: grid; gap: 13px; max-width: 44ch; }
+        .cn-proof li { display: flex; align-items: flex-start; gap: 11px; font-size: 14.5px; line-height: 1.55; color: var(--color-ink-muted); }
+        .cn-proof span { color: var(--rose); font-size: 7px; line-height: 2.4; flex-shrink: 0; }
+
+        .cn-callnote { margin-top: clamp(24px, 3vw, 30px); font-size: 14px; line-height: 1.6; color: var(--color-ink-subtle); }
+        .cn-callnote a { color: var(--rose); border-bottom: 1px solid color-mix(in oklab, var(--rose) 34%, transparent); padding-bottom: 1px; }
+        .cn-callnote a:hover { border-bottom-color: var(--rose); }
+
+        /* ── the form card ──────────────────────────────────────────── */
+        .cn-card { background: var(--ivory); border: 1px solid var(--color-border-hair); border-top: 2px solid var(--rose); border-radius: 3px; padding: clamp(26px, 2.6vw, 34px) clamp(22px, 2.4vw, 32px) clamp(24px, 2.4vw, 30px); box-shadow: 0 34px 70px -46px color-mix(in oklab, var(--ink-base) 46%, transparent); scroll-margin-top: 92px; }
+        .cn-card-head { padding-bottom: 22px; }
+        .cn-card-title { font-size: clamp(1.35rem, 1.9vw, 1.62rem); line-height: 1.22; color: var(--ink-base); }
+        .cn-card-sub { margin-top: 9px; font-size: 13.8px; line-height: 1.62; color: var(--color-ink-subtle); max-width: 40ch; }
+        .cn-progress { margin-top: 20px; height: 2px; background: color-mix(in oklab, var(--ink-base) 9%, transparent); overflow: hidden; }
+        .cn-progress-fill { display: block; height: 100%; width: 100%; background: var(--rose); transform-origin: left center; transition: transform 0.5s cubic-bezier(0.22,1,0.36,1); }
+        .cn-step-count { margin-top: 9px; font-size: 10.5px; letter-spacing: 0.24em; text-transform: uppercase; color: var(--color-ink-subtle); }
+
+        /* Both step panels stay in the DOM; the inactive one is [hidden].
+           Going from display:none back to block restarts the animation, so
+           the step change gets its slide for free with no JS. */
+        .cn-panel { animation: cn-step-in 0.42s cubic-bezier(0.22, 1, 0.36, 1) both; }
+        .cn-panel[hidden] { display: none; }
+        @keyframes cn-step-in { from { opacity: 0; transform: translateX(14px); } to { opacity: 1; transform: none; } }
+
+        .cn-questions { display: grid; gap: clamp(24px, 2.4vw, 30px); }
+        .cn-q { border: 0; margin: 0; padding: 0; min-width: 0; }
+        .cn-q-label { padding: 0; font-size: 14.5px; font-weight: 400; line-height: 1.45; color: var(--ink-base); }
+        .cn-q-help { margin-top: 6px; font-size: 12.5px; line-height: 1.55; color: var(--color-ink-subtle); }
+        .cn-opts { margin-top: 12px; display: grid; gap: 8px; }
+
+        .cn-opt { position: relative; display: flex; align-items: center; gap: 12px; min-height: 52px; padding: 12px 15px; border: 1px solid var(--color-border-hair); border-radius: 2px; background: var(--surface-bg); cursor: pointer; transition: border-color .25s ease, background-color .25s ease; }
+        .cn-opt:hover { border-color: color-mix(in oklab, var(--rose) 44%, transparent); }
+        .cn-opt-on { border-color: var(--rose); background: var(--blush); }
+        .cn-radio-input { position: absolute; opacity: 0; width: 1px; height: 1px; margin: 0; }
+        .cn-radio-input:focus-visible ~ .cn-dot { box-shadow: 0 0 0 3px color-mix(in oklab, var(--rose) 34%, transparent); }
+        .cn-dot { width: 15px; height: 15px; border-radius: 999px; border: 1px solid var(--color-border-strong); flex-shrink: 0; position: relative; transition: border-color .25s ease; }
+        .cn-opt-on .cn-dot { border-color: var(--rose); }
+        .cn-opt-on .cn-dot::after { content: ""; position: absolute; inset: 3px; border-radius: 999px; background: var(--rose); }
+        .cn-opt-text { font-size: 14.5px; line-height: 1.42; color: var(--ink-base); }
+
+        /* The contact fields sit inside their own shaded, bordered block.
+           Visually encapsulating the sensitive part of a form measurably
+           raises perceived security without changing anything technical
+           (Baymard, perceived security of payment forms). */
+        .cn-fields { display: grid; gap: 16px; padding: clamp(18px, 2vw, 22px); background: color-mix(in oklab, var(--blush) 44%, var(--ivory)); border: 1px solid var(--color-border-hair); border-radius: 2px; }
+        .cn-field { display: block; }
+        .cn-label { display: block; font-size: 10.5px; letter-spacing: 0.2em; text-transform: uppercase; color: var(--color-ink-subtle); margin-bottom: 7px; }
+        /* 16px keeps iOS Safari from zooming the viewport on focus. */
+        .cn-input { width: 100%; min-height: 52px; background: var(--ivory); border: 1px solid var(--color-border-hair); border-radius: 2px; padding: 13px 15px; font-family: var(--font-body); font-size: 16px; color: var(--ink-base); outline: none; transition: border-color .25s ease; }
+        .cn-input::placeholder { color: color-mix(in oklab, var(--ink-base) 34%, var(--surface-bg)); }
+        .cn-input:focus { border-color: var(--rose); }
+
+        .cn-submit { width: 100%; margin-top: clamp(22px, 2.4vw, 28px); min-height: 56px; }
+        .cn-submit:disabled { opacity: 0.55; pointer-events: none; }
+        .cn-back { display: block; width: 100%; margin-top: 14px; padding: 10px 0; background: none; border: 0; font-size: 12.5px; letter-spacing: 0.05em; color: var(--color-ink-subtle); cursor: pointer; }
+        .cn-back:hover { color: var(--rose); }
+        .cn-error { margin-top: 14px; font-size: 13px; line-height: 1.55; color: var(--rose-deep); }
+        .cn-fine { margin-top: 18px; padding-top: 16px; border-top: 1px solid var(--color-border-hair); font-size: 11.5px; line-height: 1.7; color: var(--color-ink-subtle); }
+        .cn-fine a { color: var(--color-ink-muted); text-decoration: underline; text-underline-offset: 2px; }
+
+        /* ── the spine ──────────────────────────────────────────────── */
+        .cn-steps-wrap { padding-block: clamp(66px, 9vw, 104px); }
+        .cn-h2 { font-size: clamp(1.75rem, 3.4vw, 2.5rem); line-height: 1.14; letter-spacing: -0.008em; color: var(--ink-base); max-width: 20ch; text-wrap: balance; }
+        .cn-spine { margin-top: clamp(38px, 5vw, 54px); border-left: 1px solid color-mix(in oklab, var(--rose) 24%, transparent); padding-left: clamp(26px, 3.4vw, 44px); display: grid; gap: clamp(34px, 4vw, 46px); max-width: 62rem; }
+        .cn-step { position: relative; }
+        .cn-step-node { position: absolute; left: calc(-1 * clamp(26px, 3.4vw, 44px) - 3px); top: 9px; width: 5px; height: 5px; background: var(--rose); border-radius: 999px; }
+        .cn-step-n { font-size: 10.5px; letter-spacing: 0.26em; color: var(--rose); }
+        .cn-step-t { margin-top: 10px; font-size: clamp(1.18rem, 1.8vw, 1.42rem); line-height: 1.26; color: var(--ink-base); }
+        .cn-step-b { margin-top: 10px; font-size: 15.5px; line-height: 1.72; font-weight: 300; color: var(--color-ink-muted); max-width: 56ch; }
+
+        /* ── doctor block ───────────────────────────────────────────── */
+        .cn-doc-band { padding-block: clamp(66px, 9vw, 104px); }
+        .cn-doc { display: grid; grid-template-columns: 0.95fr 1.05fr; gap: clamp(36px, 5vw, 72px); align-items: center; }
+        .cn-doc-img { aspect-ratio: 4 / 3; }
+        .cn-doc-img img { width: 100%; height: 100%; object-fit: cover; display: block; }
+        .cn-doc-p { margin-top: 18px; font-size: 15.5px; line-height: 1.76; font-weight: 300; color: var(--color-ink-muted); max-width: 52ch; }
+        .cn-doc-reg { margin-top: 24px; padding-top: 18px; border-top: 1px solid var(--color-border-hair); font-size: 10.5px; letter-spacing: 0.22em; text-transform: uppercase; color: var(--color-ink-subtle); }
+
+        /* ── close ──────────────────────────────────────────────────── */
+        .cn-close-band { position: relative; overflow: hidden; }
+        .cn-close-glow { position: absolute; inset: 0; opacity: 0.5; pointer-events: none; }
+        .cn-close { position: relative; padding-block: clamp(64px, 8.5vw, 96px); text-align: center; }
+        .cn-close-h { font-size: clamp(1.8rem, 3.6vw, 2.6rem); line-height: 1.14; color: var(--ink-base); max-width: 18ch; margin-inline: auto; text-wrap: balance; }
+        .cn-close-p { margin: 18px auto 0; max-width: 46ch; font-size: 15.5px; line-height: 1.72; font-weight: 300; color: var(--color-ink-muted); }
+        .cn-close-actions { margin-top: clamp(28px, 3.4vw, 36px); display: flex; gap: 12px; justify-content: center; flex-wrap: wrap; }
+
+        /* ── footer ─────────────────────────────────────────────────── */
+        .cn-foot { border-top: 1px solid var(--color-border-hair); background: var(--cream); padding-block: 40px 52px; }
+        .cn-foot-top { display: flex; flex-wrap: wrap; gap: 10px 30px; font-size: 13.5px; line-height: 1.6; color: var(--color-ink-muted); }
+        .cn-foot-top a { color: var(--rose); }
+        .cn-foot-note { margin-top: 22px; font-size: 12px; line-height: 1.8; color: var(--color-ink-subtle); max-width: 90ch; }
+        .cn-foot-copy { margin-top: 14px; font-size: 12px; line-height: 1.7; color: var(--color-ink-subtle); }
+        .cn-foot-copy a { color: var(--color-ink-subtle); text-decoration: underline; text-underline-offset: 2px; }
+
+        /* ── responsive ─────────────────────────────────────────────── */
+        @media (max-width: 1024px) {
+          .cn-hero { grid-template-columns: minmax(0, 34rem); grid-template-rows: auto auto auto; grid-template-areas: "lede" "form" "proof"; row-gap: 30px; justify-content: start; }
+          .cn-hero-lede { padding-top: 0; }
+          .cn-doc { grid-template-columns: 1fr; }
+          .cn-doc-img { order: -1; aspect-ratio: 16 / 10; }
+        }
+        @media (max-width: 720px) {
+          .cn-hero { grid-template-columns: minmax(0, 1fr); padding-top: 34px; padding-bottom: 56px; row-gap: 26px; }
+          .cn-h1 { font-size: clamp(1.95rem, 7.6vw, 2.5rem); }
+          .cn-sub { max-width: none; }
+          .cn-proof { max-width: none; }
+          .cn-proof li, .cn-opt-text, .cn-q-label { font-size: 15px; }
+          .cn-close-actions .btn { width: 100%; }
+        }
+      a:["$","style",null,{"children":"$e"}]
+b:["$","$Lf",null,{"children":["$","$10",null,{"name":"Next.MetadataOutlet","children":"$@11"}]}]
+11:null

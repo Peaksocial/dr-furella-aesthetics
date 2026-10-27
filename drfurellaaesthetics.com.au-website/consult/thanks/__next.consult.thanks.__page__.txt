@@ -1,0 +1,48 @@
+1:"$Sreact.fragment"
+2:I[8500,["500","static/chunks/500-c99b8dfd3de17c86.js","55","static/chunks/app/consult/thanks/page-55b8f4a9a9029133.js"],""]
+5:I[484,[],"OutletBoundary"]
+6:"$Sreact.suspense"
+:HL["/img/logo-mark.png","image",{"fetchPriority":"high"}]
+3:Tda0,
+        .tk-head { border-bottom: 1px solid var(--color-border-hair); background: var(--cream); }
+        .tk-head-inner { display: flex; align-items: center; justify-content: space-between; height: 74px; gap: 16px; }
+        .tk-head-phone { display: inline-flex; align-items: center; gap: 9px; font-size: 15px; letter-spacing: 0.02em; color: var(--ink-base); white-space: nowrap; padding: 10px 0; }
+        .tk-head-phone-mark { width: 6px; height: 6px; border-radius: 999px; background: var(--rose); flex-shrink: 0; }
+        .tk-head-phone:hover { color: var(--rose); }
+
+        .tk-band { position: relative; overflow: hidden; min-height: 64vh; }
+        .tk-glow { position: absolute; top: -40%; right: -12%; width: 60%; height: 140%; opacity: 0.55; pointer-events: none; }
+        .tk-wrap { position: relative; max-width: 58rem; padding-top: clamp(56px, 8vw, 100px); padding-bottom: clamp(64px, 9vw, 108px); }
+
+        .tk-rise { animation: tk-rise 0.9s cubic-bezier(0.22, 1, 0.36, 1) both; }
+        @keyframes tk-rise { from { opacity: 0; transform: translateY(26px); } to { opacity: 1; transform: none; } }
+        @media (prefers-reduced-motion: reduce) { .tk-rise { animation-delay: 0s !important; } }
+
+        .tk-kicker { font-size: 10.5px; letter-spacing: 0.28em; text-transform: uppercase; color: var(--rose); }
+        .tk-h1 { margin-top: 20px; font-size: clamp(2.1rem, 5.2vw, 3.5rem); line-height: 1.1; letter-spacing: -0.012em; color: var(--ink-base); max-width: 17ch; text-wrap: balance; }
+        .tk-sub { margin-top: clamp(20px, 2.6vw, 26px); max-width: 54ch; font-size: clamp(1.02rem, 1.25vw, 1.14rem); line-height: 1.74; font-weight: 300; color: var(--color-ink-muted); }
+
+        .tk-steps { list-style: none; margin: clamp(38px, 5vw, 54px) 0 0; padding: clamp(28px, 3.4vw, 36px) 0 0; border-top: 1px solid var(--color-border-hair); display: grid; grid-template-columns: repeat(3, 1fr); gap: clamp(28px, 3.4vw, 44px); }
+        .tk-step-n { font-size: 10.5px; letter-spacing: 0.26em; color: var(--rose); }
+        .tk-step-t { margin-top: 10px; font-size: clamp(1.1rem, 1.6vw, 1.3rem); line-height: 1.28; color: var(--ink-base); }
+        .tk-step-b { margin-top: 9px; font-size: 14.8px; line-height: 1.7; font-weight: 300; color: var(--color-ink-muted); }
+
+        .tk-call { margin-top: clamp(38px, 5vw, 52px); padding-top: clamp(28px, 3.4vw, 34px); border-top: 1px solid var(--color-border-hair); display: flex; align-items: center; gap: clamp(18px, 3vw, 34px); flex-wrap: wrap; }
+        .tk-call-p { font-size: 15px; line-height: 1.68; color: var(--color-ink-muted); max-width: 38ch; }
+
+        .tk-foot { border-top: 1px solid var(--color-border-hair); background: var(--cream); padding-block: 40px 52px; }
+        .tk-foot-top { display: flex; flex-wrap: wrap; gap: 10px 30px; font-size: 13.5px; line-height: 1.6; color: var(--color-ink-muted); }
+        .tk-foot-top a { color: var(--rose); }
+        .tk-foot-note { margin-top: 22px; font-size: 12px; line-height: 1.8; color: var(--color-ink-subtle); max-width: 90ch; }
+        .tk-foot-copy { margin-top: 14px; font-size: 12px; line-height: 1.7; color: var(--color-ink-subtle); }
+        .tk-foot-copy a { color: var(--color-ink-subtle); text-decoration: underline; text-underline-offset: 2px; }
+
+        @media (max-width: 860px) {
+          .tk-steps { grid-template-columns: 1fr; gap: 28px; }
+        }
+        @media (max-width: 560px) {
+          .tk-call .btn { width: 100%; }
+        }
+      0:{"rsc":["$","$1","c",{"children":[[["$","header",null,{"className":"tk-head","children":["$","div",null,{"className":"container-editorial tk-head-inner","children":[["$","img",null,{"src":"/img/logo-mark.png","alt":"Dr Furella Aesthetics","width":628,"height":895,"fetchPriority":"high","decoding":"async","style":{"height":44,"width":"auto"}}],["$","a",null,{"href":"tel:0432122959","className":"font-body tk-head-phone","children":[["$","span",null,{"aria-hidden":true,"className":"tk-head-phone-mark"}],"0432 122 959"]}]]}]}],["$","section",null,{"className":"band-blush tk-band","children":[["$","div",null,{"className":"glow-rose tk-glow"}],["$","div",null,{"className":"container-editorial tk-wrap","children":[["$","p",null,{"className":"font-body tk-kicker tk-rise","children":"Request received"}],["$","h1",null,{"className":"font-display tk-h1 tk-rise","style":{"animationDelay":"0.08s"},"children":"Thanks. The clinic will call you back."}],["$","p",null,{"className":"font-body tk-sub tk-rise","style":{"animationDelay":"0.18s"},"children":"Your answers have gone straight to the team at Dr Furella Aesthetics. Expect a call from us during clinic hours to arrange your consultation. Nothing is booked or charged until you have spoken to someone."}],["$","ol",null,{"className":"tk-steps tk-rise","style":{"animationDelay":"0.26s"},"children":[["$","li","01",{"children":[["$","span",null,{"className":"font-body tk-step-n","children":"01"}],["$","h2",null,{"className":"font-display tk-step-t","children":"The clinic calls you."}],["$","p",null,{"className":"font-body tk-step-b","children":"Someone from the Dr Furella Aesthetics team rings the mobile you gave us to find a consultation time that works."}]]}],["$","li","02",{"children":[["$","span",null,{"className":"font-body tk-step-n","children":"02"}],["$","h2",null,{"className":"font-display tk-step-t","children":"You pick Parramatta or Maitland."}],["$","p",null,{"className":"font-body tk-step-b","children":"Whichever clinic is easier for you. Both are doctor-run and both run the same assessment."}]]}],["$","li","03",{"children":[["$","span",null,{"className":"font-body tk-step-n","children":"03"}],["$","h2",null,{"className":"font-display tk-step-t","children":"Dr Moughal examines your skin."}],["$","p",null,{"className":"font-body tk-step-b","children":"In person, then you get told what is causing the concern and what a staged plan looks like, including when the answer is to leave it alone."}]]}]]}],["$","div",null,{"className":"tk-call tk-rise","style":{"animationDelay":"0.34s"},"children":[["$","p",null,{"className":"font-body tk-call-p","children":"If it is easier, ring the clinic yourself and we will sort a time on the spot."}],["$","a",null,{"href":"tel:0432122959","className":"btn btn-rose","children":["Call ","0432 122 959"]}]]}]]}]]}],["$","footer",null,{"className":"tk-foot","children":["$","div",null,{"className":"container-editorial","children":[["$","div",null,{"className":"tk-foot-top font-body","children":[[["$","span","Parramatta",{"children":"146 Pennant Street, Parramatta NSW 2151"}],["$","span","Maitland",{"children":"15 Bourke Street, Maitland NSW 2320"}]],["$","a",null,{"href":"tel:0432122959","children":"0432 122 959"}]]}],["$","p",null,{"className":"font-body tk-foot-note","children":"Patients must be 18 or over. A consultation is required to work out whether any treatment is suitable for you, and individual results vary. Any procedure carries risk and should be discussed with a qualified health practitioner."}],["$","p",null,{"className":"font-body tk-foot-copy","children":["Dr Furella Aesthetics. Doctors registered with AHPRA."," ",["$","$L2",null,{"href":"/privacy/","prefetch":false,"target":"_blank","rel":"nofollow noopener","children":"Privacy policy"}]]}]]}]}],["$","style",null,{"children":"$3"}]],null,"$L4"]}],"isPartial":false,"staleTime":300,"varyParams":null,"buildId":"Z82CdQ0WC8y92LOzv_COl"}
+4:["$","$L5",null,{"children":["$","$6",null,{"name":"Next.MetadataOutlet","children":"$@7"}]}]
+7:null
